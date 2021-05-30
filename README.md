@@ -1,6 +1,6 @@
 # pokemonapp
 
-A new Flutter project.
+Pokemeon search string app
 
 ## Getting Started
 
